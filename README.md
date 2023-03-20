@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I am currently studying at CUZ
-- 🌱 I’m currently learning messy basics
+- 🌱 I’m currently learning pwn
 - 🤔 I’m looking for help with how to fall asleep fast
 - 📝 I regularly write articles on https://shmodifier.github.io
 - 📫 How to reach me: DN-20506@outlook.com
